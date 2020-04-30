@@ -47,9 +47,12 @@ if __name__ == "__main__":
             
                 if ((msg == "/reset") or (msg == "/disconnect")):
                     contMsg = False
+                    client.close()
                 elif msg == "/exit":
                     contMsg = False
                     mainLoop = False
+                    client.close()
+                    serversock.close()
 
         except Exception as e:
             try:
