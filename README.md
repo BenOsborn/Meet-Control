@@ -9,8 +9,6 @@ It is built using Python and Selenium using Python sockets for the networking co
 
 # Instructions
 1. Download and install the firefox browser.
-2. Download or clone the repository to your computer.
-3. Delete the "source" folder so you are just left with the "executable" folder.
-4. Open the "executable" folder and find "clientmain.exe".
-5. For best results run this "clientmain.exe" in a command prompt window, otherwise it can just be run as a normal exe, however you will lose the logged messages on disconnect.
-6. Follow the apps instructions.
+2. Download the file here https://drive.google.com/file/d/1xMhBStO649b5h0_iBhHj1npV_LO4ObLt/view?usp=sharing.
+3. For best results run "clientmain.exe" in a command prompt window, otherwise it can just be run as a normal exe, however you will lose the logged messages on disconnect.
+4. Follow the apps instructions.
