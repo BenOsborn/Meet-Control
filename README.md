@@ -1,4 +1,7 @@
 # Meet-Control
+
+# NO LONGER WORKS DUE TO GOOGLE UPDATE
+
 By Ben Osborn
 
 A python program which lets users remote control someone else's Google Meet without the need for their email or password.
