@@ -2,7 +2,7 @@ import socket
 from webdriver import WebDriver
 
 if __name__ == "__main__":
-    IP = "60.227.19.217"
+    IP = PUBLIC_SERVER_IP
     PORT = 6000
 
     driver = WebDriver()
