@@ -6,7 +6,7 @@ def raiseException(recv):
 
 if __name__ == "__main__":
     serversock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    serversock.bind(("192.168.0.53", 6000))
+    serversock.bind((IPV4, 6000))
     serversock.listen()
 
     mainLoop = True
